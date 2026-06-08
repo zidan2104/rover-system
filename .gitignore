@@ -1,0 +1,17 @@
+# Private Claude Code session data (transcripts) — JANGAN diupload
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv (ada di GCS, bukan di repo)
+venv/
+.venv/
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+*.swp
